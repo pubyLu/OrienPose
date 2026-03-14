@@ -1,5 +1,3 @@
-# OrienPose
-3D pose estimation
 # [OrienPose: Orientation-Guided Novel View Synthesis for Single-Image Unseen Object Pose Estimation(CVPR 2026)]
 
 [![Paper](https://img.shields.io/badge/arXiv-2403.xxxxx-B31B1B.svg)](https://arxiv.org/abs/xxxx.xxxxx)
