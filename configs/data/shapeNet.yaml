@@ -1,0 +1,7 @@
+_target_: src.dataloader.shapenet.ShapeNet
+
+# default, do not change
+root_dir: ${machine.root_dir}/datasets/shapenet
+split: 
+fast_evaluation: true
+img_size: 256

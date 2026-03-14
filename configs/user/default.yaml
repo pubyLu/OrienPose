@@ -1,0 +1,4 @@
+#wandb_api_key: YOUR_WANDB_KEY # if you use wandb
+#wandb_project_name: nope_project
+local_root_dir: ./nope_project/ # 这里决定了项目的根目录，我可以修改成自己需要的。
+slurm_root_dir: ./nope_project/
