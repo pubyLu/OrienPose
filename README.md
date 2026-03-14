@@ -26,10 +26,15 @@ prepare your dataset, such as shapenet. One test sample must have : 1 reference 
 
 ## 🚀 测试与推理 (Testing & Inference)
 你可以使用预训练模型快速运行推理测试。
+
 You can use the pre-trained model to quickly run inference tests.
+
 1. 下载预训练权重：将权重文件放入 /project_root/weight/ 文件夹。
+
 Download pre-trained weights: Place the weight file in the /project_root/weight/ folder.
+
 2. 运行推理脚本：python test_demo.py
+
 Run the inference script: python test_demo.py
 
 ## 📝 引用 (Citation)
