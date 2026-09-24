@@ -1,6 +1,6 @@
 # [OrienPose: Orientation-Guided Novel View Synthesis for Single-Image Unseen Object Pose Estimation(CVPR 2026)]
 
-[![Paper](https://img.shields.io/badge/arXiv-2403.xxxxx-B31B1B.svg)](https://arxiv.org/abs/xxxx.xxxxx)
+[![Paper](https://img.shields.io/badge/CVPR-2026-blue)](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_OrienPose_Orientation-Guided_Novel_View_Synthesis_for_Single-Image_Unseen_Object_Pose_CVPR_2026_paper.pdf)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://your-project-page.github.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
