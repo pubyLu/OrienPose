@@ -28,12 +28,24 @@ prepare your dataset, such as shapenet. One test sample must have : 1 reference 
 
 You can use the pre-trained model to quickly run inference tests.
 
-1. 下载预训练权重：将权重文件放入 /project_root/weight/ 文件夹。
+1. 下载预训练权重[(链接)](https://pan.baidu.com/s/1jCkiWI9BeLUv31T8Die9IQ?pwd=95aw)：将权重文件放入 /project_root/weight/ 文件夹。
 
-Download pre-trained weights: Place the weight file in the /project_root/weight/ folder.
+Download pre-trained weights [here](https://pan.baidu.com/s/1jCkiWI9BeLUv31T8Die9IQ?pwd=95aw): Place the weight file in the /project_root/weight/ folder.
 
 2. 运行推理脚本：python test_demo.py
 
 Run the inference script: python test_demo.py
 
 ## 📝 引用 (Citation)
+
+```bash
+@inproceedings{liu2026orienpose,
+  title={OrienPose: Orientation-Guided Novel View Synthesis for Single-Image Unseen Object Pose Estimation},
+  author={Liu, Yating and Qi, Zhaoshuai and Zou, Yang and Yang, Yongnan and Zhang, Shizhou and Zhang, Yanning},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={26813--26823},
+  year={2026}
+}
+```
+## Thanks for the following work:
+Nguyen V N, Groueix T, Ponimatkin G, et al. Nope: Novel object pose estimation from a single image[C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2024: 17923-17932.
